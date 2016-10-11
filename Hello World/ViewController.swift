@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     
     print("Button tapped")
     
-        label.text = "It worksed!"
+        label.text = textField.text
     
     }
     
